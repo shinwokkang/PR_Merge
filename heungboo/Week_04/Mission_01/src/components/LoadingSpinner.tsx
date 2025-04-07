@@ -5,6 +5,7 @@ export const LoadingSpinner = () => {
       role="status"
     >
       <span className="sr-only">로딩 중...</span>
+      <p>수정</p>
     </div>
   );
 };
